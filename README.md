@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure Project</b>
+  - [Deploy Website using Azure](https://github.com/Palveen20/Deploy-website)
+  - [Create a DevTest Labs, add VM in the Azure Portal](https://github.com/Palveen20/Labs-VM)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Palveen20/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Palveen20/post-install-config)
