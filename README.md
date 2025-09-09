@@ -1,16 +1,21 @@
-## Hi there my name is Palveen  👋
+<h1>Hi, I'm Palveen Kaur, an <a href="https://www.linkedin.com/in/palveen-kaur-24b09a275/">IT Professional</a>☺</h1>
 
-<!--
-**Palveen20/Palveen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Palveen20/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Palveen20/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Palveen20/ticket-lifecycle)
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/Palveen20/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Palveen20/Azure-AD_OnPrem-Lab)
+- <b>Network File shares and permissions</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Palveen20/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Palveen20/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Palveen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/palveen-kaur-24b09a275/
