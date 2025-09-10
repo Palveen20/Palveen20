@@ -13,7 +13,7 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/Palveen20/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Palveen20/Azure-AD_OnPrem-Lab)
 - <b>Network File shares and permissions</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Palveen20/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Palveen20/configuration-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Palveen20/azure-network-protocols)
 
 
